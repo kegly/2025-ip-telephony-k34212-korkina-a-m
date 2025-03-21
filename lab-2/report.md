@@ -46,7 +46,7 @@ Date of finished: 21.03.2025
 
 Переименован роутер, отключен синтаксис ввода слов от DNS серверов, заданы пароли
 
-![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/tree/main/lab-2/images/no%20domain.png)
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/no%20domain.png)
 
 ![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/pass.png)
 
@@ -54,7 +54,7 @@ Date of finished: 21.03.2025
 
 Настроен FastEthernet 0/0  + DHCP сервер 
 
-![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/tree/main/lab-2/images/ip+dhcp.png)
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/ip%2Bphcp.png)
 
 Услуги телефонии Cisco CallManager Express 
 
@@ -66,13 +66,16 @@ Date of finished: 21.03.2025
 
 #### 4.2. Часть 2
 Новая топология 
-![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/tree/main/lab-2/images/top-2.png)
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/top-2.png)
+
 Настройка vlan(100, 200) и интерфейсов 
-![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/tree/main/lab-2/images/add-vlan.png)
 
-![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/tree/main/lab-2/images/switch-vlan.png)
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/add-vlan.png)
 
-![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/tree/main/lab-2/images/subint.png)
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/switch-vlan.png)
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab-2/images/subint.png)
 
 default gateway
 
