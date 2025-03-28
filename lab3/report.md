@@ -28,4 +28,32 @@ Date of finished: 28.03.2025
 
 #### 4. Ход работы  
 
+### 4.1 настройка sip в asterisk
+Настраиваем согласно документации asterisk
+
+
+/etc/asterisk/sip.conf
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab3/images/Screenshot%20from%202025-03-28%2012-54-42.png)
+
+ /etc/asterisk/extensions.conf
+
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab3/images/Screenshot%20from%202025-03-28%2013-02-00.png)
+
+/etc/asterisk/pjsip.conf
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab3/images/Screenshot%20from%202025-03-28%2013-02-37.png)
+
+Результат
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab3/images/Screenshot%20from%202025-03-28%2013-08-47.png)
+
+### 4.2 настройка sip account в zoiper
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab3/images/Screenshot%20from%202025-03-28%2013-09-55.png)
+
+звонок 
+
+![image](https://github.com/kegly/2025-ip-telephony-k34212-korkina-a-m/blob/main/lab3/images/Screenshot%20from%202025-03-28%2012-50-36.png)
+
 
